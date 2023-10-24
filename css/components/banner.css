@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(../../images/banner.jpg);
+  color: white;
+  padding: 170px 0px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 45px;
+}
+.banner h1 {
+  font-size: 40px;
+  font-family: "Lora";
+}
+.banner h2 {
+  font-size: 31px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+  font-family: "assistant";
+}
